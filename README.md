@@ -1,8 +1,8 @@
 
 <div align="center">
-  <h1 style="color: blue;">
-    <em>수키피 마을에 오신 걸 환영합니다</em>
-  </h1>
+  <h2 style="color: blue;">
+    <em>🏡 Welcome to sukipi village 🕊️</em>
+  </h2>
   <img src="https://raw.githubusercontent.com/sotogito/sotogito/main/asserts/sukipi_village_hello.gif" />
 </div>
 
