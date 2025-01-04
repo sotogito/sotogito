@@ -5,7 +5,7 @@
   </h2>
   <img src="https://raw.githubusercontent.com/sotogito/sotogito/main/asserts/sukipi_village_hello.gif" />
 </div>
-
+Scared Of The Ocean? Get In That Ocean!
 
 <!--
 **sotogito/sotogito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
