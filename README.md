@@ -1,4 +1,4 @@
-## Welcome to sukipi village
+## Welcome to sukipi village
 <div align="center">
   <img src="https://raw.githubusercontent.com/sotogito/sotogito/main/asserts/sukipi_village_hello.gif" />
 </div>
