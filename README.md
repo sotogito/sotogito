@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h3>🏡 Welcome to sukipi village 🕊️</h1>
+  <h2>🏡  Welcome   to   sukipi   village  🕊️</h2>
   <img src="https://raw.githubusercontent.com/sotogito/sotogito/main/asserts/sukipi_village_hello.gif" />
 </div>
 
