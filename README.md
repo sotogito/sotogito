@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 <div align="center">
   <h2>
@@ -23,3 +22,5 @@ Here are some ideas to get you started:
   </h2>
   <img src="https://raw.githubusercontent.com/sotogito/sotogito/main/asserts/sukipi_village_hello.gif" />
 </div>
+
+-->
