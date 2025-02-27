@@ -1,10 +1,5 @@
 
-<div align="center">
-  <h2>
-    <em>🏡 Welcome to sukipi village 🕊️</em>
-  </h2>
-  <img src="https://raw.githubusercontent.com/sotogito/sotogito/main/asserts/sukipi_village_hello.gif" />
-</div>
+
 Scared Of The Ocean? Get In That Ocean!
 
 <!--
@@ -21,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <h2>
+    <em>🏡 Welcome to sukipi village 🕊️</em>
+  </h2>
+  <img src="https://raw.githubusercontent.com/sotogito/sotogito/main/asserts/sukipi_village_hello.gif" />
+</div>
