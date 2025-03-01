@@ -3,8 +3,7 @@
   alt="sukipi keycap"
   width="200"
 />
-Scared Of The Ocean? Get In That Ocean!
-[ㅤ](https://medium.com/@sukipiofsotogito)
+Scared Of The Ocean[?]((https://medium.com/@sukipiofsotogito) Get In That Ocean!
 
 <!--
 **sotogito/sotogito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
