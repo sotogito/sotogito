@@ -1,6 +1,10 @@
-
-<img src="https://raw.githubusercontent.com/sotogito/sotogito/main/asserts/keycap_sukipi.jpg" />
+<img
+  src="https://raw.githubusercontent.com/sotogito/sotogito/main/asserts/iphone_keycap_sukipi.png"
+  alt="sukipi keycap"
+  width="200"
+/>
 Scared Of The Ocean? Get In That Ocean!
+[](https://medium.com/@sukipiofsotogito)
 
 <!--
 **sotogito/sotogito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,12 +25,6 @@ Here are some ideas to get you started:
     <em>🏡 Welcome to sukipi village 🕊️</em>
   </h2>
   <img src="https://raw.githubusercontent.com/sotogito/sotogito/main/asserts/sukipi_village_hello.gif" />
-</div>
-
-<img src="https://raw.githubusercontent.com/sotogito/sotogito/main/asserts/a_lock_that_keeps_the_key.png" />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sotogito/sotogito/main/asserts/keycap_sukipi.jpg" />
 </div>
 
 https://github.com/sotogito/sotogito/blob/main/asserts/keycap_sukipi.jpg
