@@ -1,9 +1,5 @@
 
-<img
-  src="https://raw.githubusercontent.com/sotogito/sotogito/main/asserts/iphone_keycap_sukipi.png"
-  alt="sukipi keycap"
-  width="200"
-/>
+<img src="https://raw.githubusercontent.com/sotogito/sotogito/main/asserts/keycap_sukipi.jpg" />
 Scared Of The Ocean? Get In That Ocean!
 
 <!--
@@ -30,7 +26,9 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/sotogito/sotogito/main/asserts/a_lock_that_keeps_the_key.png" />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sotogito/sotogito/main/asserts/iphone_keycap_sukipi.png" />
+  <img src="https://raw.githubusercontent.com/sotogito/sotogito/main/asserts/keycap_sukipi.jpg" />
 </div>
+
+https://github.com/sotogito/sotogito/blob/main/asserts/keycap_sukipi.jpg
 
 -->
