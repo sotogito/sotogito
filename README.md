@@ -1,6 +1,9 @@
-
-
-<img src="https://raw.githubusercontent.com/sotogito/sotogito/main/asserts/a_lock_that_keeps_the_key.png" />
+<div align="center">
+  <h2>
+    <em>🏡 Welcome to sukipi village 🕊️</em>
+  </h2>
+  <img src="https://raw.githubusercontent.com/sotogito/sotogito/main/asserts/iphone_keycap_sukipi.png" />
+</div>
 Scared Of The Ocean? Get In That Ocean!
 
 <!--
@@ -23,5 +26,8 @@ Here are some ideas to get you started:
   </h2>
   <img src="https://raw.githubusercontent.com/sotogito/sotogito/main/asserts/sukipi_village_hello.gif" />
 </div>
+
+<img src="https://raw.githubusercontent.com/sotogito/sotogito/main/asserts/a_lock_that_keeps_the_key.png" />
+
 
 -->
