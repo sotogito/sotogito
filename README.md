@@ -4,7 +4,7 @@
   width="200"
 />
 Scared Of The Ocean? Get In That Ocean!
-[0](https://medium.com/@sukipiofsotogito)
+[ㅤ](https://medium.com/@sukipiofsotogito)
 
 <!--
 **sotogito/sotogito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
