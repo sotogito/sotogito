@@ -18,7 +18,14 @@
 ```
 
 Scared Of The Ocean[?](https://medium.com/@sukipiofsotogito) Get In That Ocean!
+<a id="a">wd</a>
+<input type="text" id="b"></input>
 
+<script>
+  document.getElementById('a').addEventListener('click', (e) => {
+    
+  })
+</script>
 <!--
 **sotogito/sotogito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
