@@ -2,6 +2,8 @@
   src="https://raw.githubusercontent.com/sotogito/sotogito/main/asserts/a_lock_that_keeps_the_key.png"
   alt="sukipi keycap"
 />
+
+```
                    __     _                 _            __     _        
   ____     ____   / /_   (_)   ____ ___    (_)   _____  / /_   (_)  _____
  / __ \   / __ \ / __/  / /   / __ `__ \  / /   / ___/ / __/  / /  / ___/
@@ -13,7 +15,9 @@
    ____    (_)   / /_    (_)   / /   (_)   _____   ____ ___ 
   / __ \  / /   / __ \  / /   / /   / /   / ___/  / __ `__ \
  / / / / / /   / / / / / /   / /   / /   (__  )  / / / / / /
-/_/ /_/ /_/   /_/ /_/ /_/   /_/   /_/   /____/  /_/ /_/ /_/ 
+/_/ /_/ /_/   /_/ /_/ /_/   /_/   /_/   /____/  /_/ /_/ /_/
+
+```
 
 Scared Of The Ocean[?](https://medium.com/@sukipiofsotogito) Get In That Ocean!
 
