@@ -1,7 +1,7 @@
 <img
   src="https://raw.githubusercontent.com/sotogito/sotogito/main/asserts/a_lock_that_keeps_the_key.png"
   alt="sukipi keycap"
-  width="200"
+<!--   width="200" -->
 />
 Scared Of The Ocean[?](https://medium.com/@sukipiofsotogito) Get In That Ocean!
 
