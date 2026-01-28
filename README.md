@@ -3,21 +3,7 @@
   alt="sukipi keycap"
 />
 
-``` Optimistic Nihilism
-   ____     ____   ______    ____    __  ___    ____   _____  ______    ____   ______
-  / __ \   / __ \ /_  __/   /  _/   /  |/  /   /  _/  / ___/ /_  __/   /  _/  / ____/
- / / / /  / /_/ /  / /      / /    / /|_/ /    / /    \__ \   / /      / /   / /     
-/ /_/ /  / ____/  / /     _/ /    / /  / /   _/ /    ___/ /  / /     _/ /   / /___   
-\____/  /_/      /_/     /___/   /_/  /_/   /___/   /____/  /_/     /___/   \____/
-
-    _   __    ____    __  __    ____    __     ____   _____    __  ___
-   / | / /   /  _/   / / / /   /  _/   / /    /  _/  / ___/   /  |/  /
-  /  |/ /    / /    / /_/ /    / /    / /     / /    \__ \   / /|_/ / 
- / /|  /   _/ /    / __  /   _/ /    / /___ _/ /    ___/ /  / /  / /  
-/_/ |_/   /___/   /_/ /_/   /___/   /_____//___/   /____/  /_/  /_/                                                                                                                                
-```
-
-Scared Of The Ocean[?](https://medium.com/@sukipiofsotogito) Get In That Ocean!
+Scared Of The Ocean? Get In That Ocean!
 <!--
 **sotogito/sotogito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
