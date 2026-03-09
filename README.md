@@ -1,7 +1,10 @@
-<img
-  src="https://raw.githubusercontent.com/sotogito/sotogito/main/asserts/sotogito_dots.png"
-  alt="sukipi keycap"
-/>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/sotogito/sotogito/main/asserts/sotogito_dots.png"
+    alt="sukipi keycap"
+    width="100%"
+  />
+</p>
 
 Scared Of The Ocean? Get In That Ocean!
 <!--
